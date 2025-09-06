@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# capi-biker
+Capi Biker es una aplicación web desarrollada en React que simula una tienda online especializada en productos para motociclistas. El proyecto incluye un panel administrativo y catálogo de productos, aplicando buenas prácticas de desarrollo frontend y organización de componentes.
+>>>>>>> fa7210ce72855b71b3a1055bbf3038a0696e32c4
